@@ -8,8 +8,6 @@ setup(
     name="anonyxwatch",
     version="1.0",
     description="anonyxwatch",
-    long_description=open('README.md').read(),
-    long_description_content_type='text/markdown',
     author="Anonyxbiz",
     author_email="anonyxbiz@gmail.com",
     url="https://github.com/anonyxbiz/anonyxwatch",
